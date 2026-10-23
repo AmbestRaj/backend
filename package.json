@@ -1,0 +1,20 @@
+{
+  "name": "backend1",
+  "version": "1.0.0",
+  "description": "build basic app to deploy",
+  "keywords": [
+    "node"
+  ],
+  "license": "ISC",
+  "author": "ambest raj",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index2.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "env": "^0.0.2",
+    "express": "^5.3.0"
+  }
+}
